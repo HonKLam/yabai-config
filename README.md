@@ -127,3 +127,5 @@ Click [here](scripts/open_iterm2.sh) to view the script.
 ```
 alt - return : /path/to/launch/terminal
 ```
+
+(_Note_ - The keybinding has been changed to open `Hyper`-Terminal instead.)
