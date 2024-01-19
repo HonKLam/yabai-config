@@ -1,4 +1,8 @@
-# opens Hyper-Terminal alt - return : "${HOME}"/.config/yabai/scripts/open_hyper.sh # Show system statistics fn + lalt - 1 : "${HOME}"/.config/yabai/scripts/show_cpu.sh
+# opens Hyper-Terminal
+alt - return : "${HOME}"/.config/yabai/scripts/open_hyper.sh 
+
+# Show system statistics
+fn + lalt - 1 : "${HOME}"/.config/yabai/scripts/show_cpu.sh
 fn + lalt - 2 : "${HOME}"/.config/yabai/scripts/show_mem.sh
 fn + lalt - 3 : "${HOME}"/.config/yabai/scripts/show_bat.sh
 fn + lalt - 4 : "${HOME}"/.config/yabai/scripts/show_disk.sh
@@ -67,5 +71,5 @@ shift + lctrl + alt - r : \
     launchctl kickstart -k "gui/${UID}/homebrew.mxcl.yabai"
 
 # Make window native fullscreen
-alt - f         : yabai -m window --toggle zoom-fullscreen
+hyper - f         : yabai -m window --toggle zoom-fullscreen
 shift + alt - f : yabai -m window --toggle native-fullscreen

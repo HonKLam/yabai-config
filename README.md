@@ -1,4 +1,4 @@
-# Yabai and Skhd Config
+# Yabai and Skhd Config (Lamos Edit)
 
 This repository contains my standalone Yabai and Skhd configurations.
 
@@ -25,7 +25,7 @@ $ ln -s "${HOME}/.config/yabai/skhdrc" "${HOME}/.skhdrc"
 
 ### Changing Focus
 
-<kbd>alt</kbd> + <kbd>hjkl</kbd>
+<kbd>hyper</kbd> + <kbd>hjkl</kbd>
 
 ### Resize Windows
 
@@ -54,7 +54,7 @@ $ ln -s "${HOME}/.config/yabai/skhdrc" "${HOME}/.skhdrc"
 
 | Action               | Key Combination                                  |
 | -------------------- | ------------------------------------------------ |
-| Rotate clockwise     | <kbd>alt</kbd> + <kbd>r</kbd>                    |
+| Rotate clockwise     | <kbd>hyper</kbd> + <kbd>r</kbd>                  |
 | Rotate anticlockwise | <kbd>shift</kbd> + <kbd>alt</kbd> + <kbd>r</kbd> |
 | Flip on x-axis       | <kbd>shift</kbd> + <kbd>alt</kbd> + <kbd>x</kbd> |
 | Flip on y-axis       | <kbd>shift</kbd> + <kbd>alt</kbd> + <kbd>y</kbd> |
@@ -63,7 +63,7 @@ $ ln -s "${HOME}/.config/yabai/skhdrc" "${HOME}/.skhdrc"
 
 | Action            | Key Combination                                  |
 | ----------------- | ------------------------------------------------ |
-| Fullscreen        | <kbd>alt</kbd> + <kbd>f</kbd>                    |
+| Fullscreen        | <kbd>hyper</kbd> + <kbd>f</kbd>                  |
 | Native fullscreen | <kbd>shift</kbd> + <kbd>alt</kbd> + <kbd>f</kbd> |
 
 ### Window Insertion Point
