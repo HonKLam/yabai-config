@@ -1,6 +1,9 @@
 # opens iTerm2
 alt - return : "${HOME}"/.config/yabai/scripts/open_hyper.sh
 
+# Fix @
+option - l : osascript -e 'tell application "System Events" to keystroke "@"'
+
 # Show system statistics
 fn + lalt - 1 : "${HOME}"/.config/yabai/scripts/show_cpu.sh
 fn + lalt - 2 : "${HOME}"/.config/yabai/scripts/show_mem.sh
