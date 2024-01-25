@@ -112,13 +112,13 @@ fn + lalt - 3 : /path/to/script
 ...
 ```
 
-### Launch iTerm2
+### Launch Hyper
 
 #### Description
 
-Launches iTerm2.
+Launches Hyper.
 
-Click [here](scripts/open_iterm2.sh) to view the script.
+Click [here](scripts/open-hyper.sh) to view the script.
 
 #### Key Combination
 
@@ -127,5 +127,3 @@ Click [here](scripts/open_iterm2.sh) to view the script.
 ```
 alt - return : /path/to/launch/terminal
 ```
-
-(_Note_ - The keybinding has been changed to open `Hyper`-Terminal instead.)
