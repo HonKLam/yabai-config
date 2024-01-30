@@ -50,6 +50,10 @@ $ ln -s "${HOME}/.config/yabai/skhdrc" "${HOME}/.skhdrc"
 | Send to next workplace      | <kbd>shift</kbd> + <kbd>alt</kbd> + <kbd>n</kbd>   |
 | Send to workplace           | <kbd>shift</kbd> + <kbd>alt</kbd> + <kbd>num</kbd> |
 
+### Change focus to Workspace (Monitor)
+
+<kbd>hyper</kbd> + <kbd>123</kbd>
+
 ### Rotate Windows
 
 | Action               | Key Combination                                  |
