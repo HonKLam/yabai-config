@@ -116,18 +116,16 @@ fn + lalt - 3 : /path/to/script
 ...
 ```
 
-### Launch Hyper
+### Launch Alacritty
 
 #### Description
 
-Launches Hyper.
-
-Click [here](scripts/open-hyper.sh) to view the script.
+Launches Alacritty.
 
 #### Key Combination
 
 <kbd>alt</kbd> + <kbd>return</kbd>
 
 ```
-alt - return : /path/to/launch/terminal
+alt - return :  open -n -a /path/to/launch/terminal
 ```

@@ -1,5 +1,5 @@
-# Opens Hyper-Terminal
-alt - return : "${HOME}"/.config/yabai/scripts/open_hyper.sh 
+# Opens Alacritty-Terminal
+alt - return : open -n -a 'Alacritty.app'
 
 # Show system statistics
 fn + lalt - 1 : "${HOME}"/.config/yabai/scripts/show_cpu.sh
